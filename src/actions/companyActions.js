@@ -1,5 +1,5 @@
 import axios from 'axios';
-
+//just a comment
 export const getCompanyList = () => {
 	return async (dispatch, getState) => {
 		try {
