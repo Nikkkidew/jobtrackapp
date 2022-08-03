@@ -1,6 +1,7 @@
 import axios from 'axios';
 //just a comment
 //another comment
+//another
 export const getCompanyList = () => {
 	return async (dispatch, getState) => {
 		try {
