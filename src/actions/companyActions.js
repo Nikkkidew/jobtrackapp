@@ -1,8 +1,4 @@
 import axios from 'axios';
-//just a comment
-
-//comment from test branch
-const test = '123test';
 export const getCompanyList = () => {
 	return async (dispatch, getState) => {
 		try {
